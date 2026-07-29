@@ -1,7 +1,7 @@
-# 1 .crre un algo qui genere est nombre au hasard
-# 2.  Tant que l'utilisatuer n'a pas trouve le bon nombre 
+# 1 .crre un algo qui genere des nombres au hasard
+# 2.Tant que l'utilisatuer n'a pas trouve le bon nombre 
 # 2.1. Demander un nombre a l'utilisateur 
-# 2.2. Si le nombre est trp petit on vas affiche le message "c'est plus "
+# 2.2. Si le nombre est trop petit on vas affiche le message "c'est plus "
 # 2.3. Si le nombre est plus grand on vas affiche le message "c'est moin "
 # 3. Quand il vas trouver le bon nombre on vas le felicite part le message "barvos vous avez trouver le nombre jsute "
 import random
